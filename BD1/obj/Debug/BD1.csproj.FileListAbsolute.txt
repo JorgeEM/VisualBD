@@ -1,0 +1,12 @@
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\bin\Debug\BD1.exe.config
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\bin\Debug\BD1.exe
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\bin\Debug\BD1.pdb
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\bin\Debug\MySql.Data.dll
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\bin\Debug\MySql.Data.xml
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\obj\Debug\BD1.csprojResolveAssemblyReference.cache
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\obj\Debug\BD1.Form1.resources
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\obj\Debug\BD1.Properties.Resources.resources
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\obj\Debug\BD1.csproj.GenerateResource.Cache
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\obj\Debug\BD1.csproj.CoreCompileInputs.cache
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\obj\Debug\BD1.exe
+C:\Users\kejl\Desktop\PARCIALES UPP\BD Simple\BD1\BD1\obj\Debug\BD1.pdb
